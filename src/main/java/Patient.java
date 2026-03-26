@@ -21,7 +21,7 @@ public class Patient {
     public String getPatientLastName() { return patientLastName; }
     public String getPatientDOB() { return patientDOB; }
 
-    // Useful for printing a Patient object
+    // For printing a Patient object
     @Override
     public String toString() {
         return "Patient ID: " + patientId +
