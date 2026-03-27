@@ -1,0 +1,1 @@
+Drug ID: 1 | Name: Aspirin | Cost: $9.99 | Dosage: 500mg
